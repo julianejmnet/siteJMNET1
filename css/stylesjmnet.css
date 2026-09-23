@@ -6229,3 +6229,12 @@ button:active {
 .store-button:hover {
     transform: translateY(-2px) !important;
 }
+
+/* ========================================================
+   1. FAZ O BALÃO DE MENSAGEM SUMIR APÓS 5 SEGUNDOS
+======================================================== */
+.whatsapp-float-preview {
+    /* Mantém a animação de entrada e adiciona uma de saída após 5s de espera */
+    animation: fadeInPreview 0.5s ease-in-out forwards, fadeOutPreview 0.5s ease-in-out 5s forwards !important;
+}
+

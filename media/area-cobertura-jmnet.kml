@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="document">
+	<name>Arquivo KML sem título</name>
+	<gx:CascadingStyle kml:id="__managed_style_0E2E55C3CC40E040C160_highlight">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0E2E55C3CC40E040C160_normal">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E2E55C3CC40E040C160">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0E2E55C3CC40E040C160_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0E2E55C3CC40E040C160_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0467D3A61540E040BD64">
+		<name>Polígono sem título</name>
+		<LookAt>
+			<longitude>-39.26631149750938</longitude>
+			<latitude>-14.78944961232311</latitude>
+			<altitude>67.97330369556389</altitude>
+			<heading>359.7854004759348</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>15719.06123609282</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E2E55C3CC40E040C160</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-39.25607365596952,-14.76605781553161,0 -39.25915830604708,-14.76100188195086,0 -39.2660606540729,-14.76334305946278,0 -39.27935859044342,-14.77087703506298,0 -39.28672512813652,-14.77913357804394,0 -39.29256409354424,-14.78391133340598,0 -39.2946221149703,-14.78732406790651,0 -39.29198379999794,-14.79101725456559,0 -39.2905793858091,-14.79727388623563,0 -39.29205008480626,-14.79833007102829,0 -39.2959649070506,-14.79574572787955,0 -39.29856677125947,-14.79501696905382,0 -39.30118744888809,-14.79765422012084,0 -39.29366724136318,-14.80351082250829,0 -39.296596960754,-14.80567128487629,0 -39.29894619597377,-14.81032591997588,0 -39.30414643410819,-14.80768642667746,0 -39.31197236927684,-14.81013825334967,0 -39.31625044889859,-14.81520017813185,0 -39.31484673293721,-14.82035321323924,0 -39.31151844546379,-14.82502907688552,0 -39.300137853843,-14.8185629392439,0 -39.29723747640193,-14.81748941143454,0 -39.29723747640193,-14.81748941143454,0 -39.29782220111488,-14.82219232461326,0 -39.29288406120695,-14.82412124967264,0 -39.28743428387278,-14.82096466251883,0 -39.28533963278889,-14.82099362542578,0 -39.28009214032794,-14.82498483810645,0 -39.27174387208303,-14.82110322016922,0 -39.26284032943455,-14.81941932371259,0 -39.26036988577373,-14.80673485533224,0 -39.26010703134825,-14.79465388302542,0 -39.25464287937268,-14.79107436992991,0 -39.25971848012239,-14.78265160570722,0 -39.25634715022556,-14.78077759532795,0 -39.25532794273212,-14.77566301357937,0 -39.25607365596952,-14.76605781553161,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
